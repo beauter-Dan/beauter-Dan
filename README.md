@@ -1,4 +1,4 @@
-# Hi there, I'm Beauter Ongayi (@beauter-Dan) 👋
+# Hi there, I'm Beauter Ongayi (@beauter-Dan) 
 
 - I’m interested in web development, mobile apps, game development, and cybersecurity  
 -I’m currently learning frontend development, Kivy for Python apps, and advanced database systems  
